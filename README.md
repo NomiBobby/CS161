@@ -1,0 +1,3 @@
+# CS161
+
+Course Slides: https://d18ky98rnyall9.cloudfront.net/_b50972a32644e2055937f6f9747e9120_algo1slides.zip?Expires=1655078400&Signature=PvHQUGNGdUPqj84pA56k-t0ktjY9eIJj9ZHeK0E6HJiOG3enh7wEJ0WFS989kG0uPO3bDF9cEjneh6VKCWYzeeS9ZJ3eVGf97b1cz49HoW-ayNZKQ9w2Ns1cfhJqQJqJenSiWd0P2EvenskRBH-qhlbtiRJ0WZbULK9Ht~qCVXk_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
